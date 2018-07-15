@@ -28,4 +28,4 @@ The source data for this project can be found here.(https://d396qusza40orc.cloud
 
 'run_analysis.R' is the code for the R script used to complete the project goals
 
-'FinalTidyData.txt' is the output from the 'runAnalysis.R' R script
+'secTidySet.txt' is the output from the 'runAnalysis.R' R script
